@@ -39,7 +39,7 @@ public class Menu {
 				salir = false;
 				break;
 			default:
-				System.out.println("Opción inválida, Intente de nuevo");
+				System.out.println("Opción inválida, Intente de nuevo");//reinicia el menu
 			}
 		}
 	}
